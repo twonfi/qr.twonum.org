@@ -1,5 +1,12 @@
 # qr.html
 
+> [!NOTE]
+> This is a fork of https://github.com/six-two/qr.html.
+> The original project and this fork is licensed under the Unlicense (public domain).
+>
+> This fork was created to mirror the project and for self-hosting/control.
+> Please contribute upstream!
+
 `qr.html` is a self-contained website, that can generate QR codes via [nayuki's QR code generator library](https://github.com/nayuki/QR-Code-generator).
 Because it is fully self-contained, you can just download the file and open it on any computer that has a browser installed, no Internet connection is needed.
 
